@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Show
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Show\ here.\r\n\r\n\ @author\ Ari\ Kaminski\r\n\ @version\ v1.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ details()
+comment2.params=seats\ row\ customer
+comment2.target=boolean\ reserveSeats(int[],\ int,\ Customer)
+comment3.params=numSeats\ row
+comment3.target=int[]\ requestSeats(int,\ int)
+comment4.params=customer
+comment4.target=Reservation\ checkReservation(Customer)
+comment5.params=customer
+comment5.target=void\ cancelReservation(Customer)
+numComments=6

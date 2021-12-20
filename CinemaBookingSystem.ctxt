@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CinemaBookingSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CinemaBookingSystem\ here.\r\n\r\n\ @author\ Ari\ Kaminski\r\n\ @version\ v1.0\r\n
+comment1.params=show
+comment1.target=void\ displayDetails(Show)
+comment2.params=seats\ row\ show\ customer
+comment2.target=boolean\ reserveSeats(int[],\ int,\ Show,\ Customer)
+comment3.params=numSeats\ row\ show
+comment3.target=int[]\ requestSeats(int,\ int,\ Show)
+comment4.params=show\ customer
+comment4.target=Reservation\ checkRes(Show,\ Customer)
+comment5.params=show\ customer
+comment5.target=void\ cancelRes(Show,\ Customer)
+numComments=6
